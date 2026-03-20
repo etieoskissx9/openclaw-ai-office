@@ -1,0 +1,8 @@
+services:
+  openclaw:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+    command: python telegram/telegram_bot.py

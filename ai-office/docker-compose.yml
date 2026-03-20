@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+
+  ai-agent:
+    build: ./ai_agent
+    env_file:
+      - .env
+
+  telegram-user:
+    build: ./telegram_user
+    env_file:
+      - .env
+
+  discord-bot:
+    build: ./discord_bot
+    env_file:
+      - .env

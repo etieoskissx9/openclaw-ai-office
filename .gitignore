@@ -1,0 +1,30 @@
+# 環境変数
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 仮想環境
+venv/
+
+# logs
+logs/
+
+# backup
+*.save
+
+# OS
+.DS_Store
+
+# build
+dist/
+build/
+
+# temp
+project.txt
+.env
+.env
+.env.save
+.env
+.env.save

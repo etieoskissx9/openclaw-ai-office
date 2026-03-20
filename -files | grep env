@@ -1,0 +1,35 @@
+[35mai-office/.env.save[m[36m:[mOPENAI_API_KEY=[1;31msk-[mproj-frvfktl7d6kF2HNmPx31z3U51I5KXm4gRp2qgyyafyRe3hioMgvfwWWGbbq7mi5Vmw_7xusM28T3BlbkFJ1Xrw-2o5cwfFVOkYwHVyvWV-gpHYkuXbjmaNXREdqCd0LHDjD5cE-sAT1X9kRx6AL2_joAHtYA
+[35mai-office/telegram_user/project.txt[m[36m:[m                INTEGER { di[1;31msk-[mfull(1), no-disk(-1),
+[35mai-office/telegram_user/project.txt[m[36m:[m                          di[1;31msk-[mnot-formatted(2) }
+[35mai-office/telegram_user/project.txt[m[36m:[m            error ErrorCode ::= di[1;31msk-[mfull
+[35mai-office/telegram_user/project.txt[m[36m:[m                ('di[1;31msk-[mfull', 1), ('no-disk', -1),
+[35mai-office/telegram_user/project.txt[m[36m:[m                ('di[1;31msk-[mnot-formatted', 2)
+[35mai-office/telegram_user/project.txt[m[36m:[m        error = ErrorCode('di[1;31msk-[mfull')
+[35mai-office/telegram_user/project.txt[m[36m:[m    "ple[1;31msk-[mrelease",
+[35mai-office/telegram_user/project.txt[m[36m:[m    as the temporary files directory is di[1;31msk-[mbased (sometimes it's a
+[35mproject.txt[m[36m:[m            # asteri[1;31msk-[mform,
+[35mproject.txt[m[36m:[m    "ple[1;31msk-[mrelease",
+[35mproject.txt[m[36m:[m_SK_SSH_ED25519 = b"[1;31msk-[mssh-ed25519@openssh.com"
+[35mproject.txt[m[36m:[m_SK_SSH_ECDSA_NISTP256 = b"[1;31msk-[mecdsa-sha2-nistp256@openssh.com"
+[35mproject.txt[m[36m:[m    The format of a [1;31msk-[mssh-ed25519@openssh.com public key is:
+[35mproject.txt[m[36m:[m        string		"[1;31msk-[mssh-ed25519@openssh.com"
+[35mproject.txt[m[36m:[m            "[1;31msk-[mssh-ed25519 private keys cannot be loaded"
+[35mproject.txt[m[36m:[m    The format of a [1;31msk-[mecdsa-sha2-nistp256@openssh.com public key is:
+[35mproject.txt[m[36m:[m        string		"[1;31msk-[mecdsa-sha2-nistp256@openssh.com"
+[35mproject.txt[m[36m:[m            "[1;31msk-[mecdsa-sha2-nistp256 private keys cannot be loaded"
+[35mproject.txt[m[36m:[m                INTEGER { di[1;31msk-[mfull(1), no-disk(-1),
+[35mproject.txt[m[36m:[m                          di[1;31msk-[mnot-formatted(2) }
+[35mproject.txt[m[36m:[m            error ErrorCode ::= di[1;31msk-[mfull
+[35mproject.txt[m[36m:[m                ('di[1;31msk-[mfull', 1), ('no-disk', -1),
+[35mproject.txt[m[36m:[m                ('di[1;31msk-[mnot-formatted', 2)
+[35mproject.txt[m[36m:[m        error = ErrorCode('di[1;31msk-[mfull')
+[35mproject.txt[m[36m:[m    "ple[1;31msk-[mrelease",
+[35mproject.txt[m[36m:[m    as the temporary files directory is di[1;31msk-[mbased (sometimes it's a
+[35mproject.txt[m[36m:[m                INTEGER { di[1;31msk-[mfull(1), no-disk(-1),
+[35mproject.txt[m[36m:[m                          di[1;31msk-[mnot-formatted(2) }
+[35mproject.txt[m[36m:[m            error ErrorCode ::= di[1;31msk-[mfull
+[35mproject.txt[m[36m:[m                ('di[1;31msk-[mfull', 1), ('no-disk', -1),
+[35mproject.txt[m[36m:[m                ('di[1;31msk-[mnot-formatted', 2)
+[35mproject.txt[m[36m:[m        error = ErrorCode('di[1;31msk-[mfull')
+[35mproject.txt[m[36m:[m    "ple[1;31msk-[mrelease",
+[35mproject.txt[m[36m:[m    as the temporary files directory is di[1;31msk-[mbased (sometimes it's a
